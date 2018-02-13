@@ -1,6 +1,6 @@
 ## INPUT ASSUMPTIONS:
 
-data is contained in file 'itcont.txt'
+data is contained in file `itcont.txt` <br />
 Structure as described by FEC.
 
 * LINE: splitting a line entry by '|' divider must yield an array of 21 entries, some of which may be empty. 
