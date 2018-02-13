@@ -1,9 +1,4 @@
-
-
-
-
-
-#INPUT ASSUMPTIONS:
+INPUT ASSUMPTIONS:
 
 data is contained in file 'itcont.txt'
 Structure as described by FEC.
@@ -14,7 +9,7 @@ ZIP_CODE: is either a five digit or nine digit number, no spaces in between, onl
 TRANSACTION_DT: has to be a valid date, the  1776 <= year <= today, record cannot extend before United States was founded
 TRANSACTION_AMT: has to be convertible to a float and cannot be negative
 
-'percentile.txt' contains a single entry: 0 $<$ percentile $<$ 100
+'percentile.txt' contains a single entry: 0 < percentile < 100
 
-#STRUCTURE:
+STRUCTURE:
 As defined in the README of the challenge. 
